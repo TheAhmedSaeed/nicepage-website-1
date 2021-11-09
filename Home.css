@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 625px;
+  min-height: 699px;
 }
 
 .u-section-1 .u-text-1 {
@@ -8,14 +8,14 @@
 
 .u-section-1 .u-text-2 {
   line-height: 1.8;
-  width: 680px;
   font-weight: 700;
-  margin: 19px auto 0;
+  width: 680px;
+  margin: 24px auto 0;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 5px;
-  margin-bottom: 15px;
+  margin-top: 0;
+  margin-bottom: 16px;
 }
 
 .u-section-1 .u-layout-cell-1 {
